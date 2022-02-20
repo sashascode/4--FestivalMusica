@@ -1,5 +1,5 @@
 # 4--FestivalMusica
-A proyect with Gulp, SASS &amp; HTML 
+A proyect with SASS &amp; HTML 
 
 
 https://festivaldemusica-s.netlify.app
